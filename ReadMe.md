@@ -1,4 +1,4 @@
-
+copy
 
 **To run the tests:**
 If you are using Eclipse: `Right click on the project and select Run As > maven Install`
