@@ -1,0 +1,15 @@
+[
+
+    {
+        "TestCaseNumber": "TC1",
+        "firstName": "TestUser",
+        "userName": "testnl40",
+        "password": "Test#12345",
+        "Location":"Hilversum",
+        "searchKeyword":"Diensthond",
+        "searchType":"patient"
+       
+    }
+    
+
+]
